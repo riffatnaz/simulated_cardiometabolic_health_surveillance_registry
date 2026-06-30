@@ -2,7 +2,7 @@
 
 A longitudinal simulated REDCap database tracking a patient cohort undergoing a lifestyle and genetic risk management intervention, with automated quarterly-ish follow-up over 12 months.
 
-**Why this exists:** REDCap is institutional research software — most projects live inside a university or hospital's private instance and are never made public. This project was built end-to-end on REDCap's public demo server specifically to demonstrate database design, longitudinal data modeling, and automation skills in a format a recruiter or hiring manager can actually open and review, without needing REDCap access themselves. Every file here describes *schema and structure* (variable names, validation rules, branching logic, calculated fields) — there is no real patient data anywhere in this repository; all records are synthetic.
+**Why this exists:** REDCap is institutional research software. Therefore, most projects live inside a university or hospital's private instance and are never made public. This project was built end-to-end on REDCap's public demo server specifically to demonstrate database design, longitudinal data modeling, and automation skills in a format a recruiter or hiring manager can actually open and review, without needing REDCap access themselves. Every file here describes *schema and structure* (variable names, validation rules, branching logic, calculated fields). There is no real patient data anywhere in this repository; all records are synthetic.
 
 ## Project Overview
 
